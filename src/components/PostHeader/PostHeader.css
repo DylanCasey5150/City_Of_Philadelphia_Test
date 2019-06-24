@@ -1,0 +1,13 @@
+.PostHeader__label__title {
+  border-bottom: 2px solid black;
+  width: 75%;
+  padding: 20px;
+  text-align: left;
+}
+
+.PostHeader__label__date {
+  border-bottom: 2px solid black;
+  width: 25%;
+  padding: 20px;
+  text-align: left;
+}
